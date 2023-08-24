@@ -1,0 +1,5 @@
+ratings_url = https://datasets.imdbws.com/title.ratings.tsv.gz
+
+basics_url = https://datasets.imdbws.com/title.basics.tsv.gz
+
+akas_url = https://datasets.imdbws.com/title.akas.tsv.gz
